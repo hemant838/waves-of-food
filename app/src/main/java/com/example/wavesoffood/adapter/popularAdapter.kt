@@ -1,4 +1,4 @@
-package com.example.wavesoffood.Popularadapter
+package com.example.wavesoffood.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

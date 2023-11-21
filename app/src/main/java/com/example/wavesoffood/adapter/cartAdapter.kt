@@ -1,6 +1,5 @@
-package com.example.wavesoffood.Popularadapter
+package com.example.wavesoffood.adapter
 
-import android.icu.text.Transliterator.Position
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
